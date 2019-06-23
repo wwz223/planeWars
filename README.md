@@ -7,7 +7,7 @@
 #### 实例图：
 ###### 小敌机
 
-![Alt text](./img/airplane0.png)
+![Alt text](ScreenShots/airplane.png)
 
 ###### 大敌机
 
