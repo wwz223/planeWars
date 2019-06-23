@@ -11,19 +11,19 @@
 
 ###### 大敌机
 
-![Alt text](./img/bigplane0.png)
+![Alt text](ScreenShots/bigplane.png)
 
 ###### 小蜜蜂
 
-![Alt text](./img/bee0.png)
+![Alt text](ScreenShots/bee.png)
 		
 ###### 英雄机
 
-![Alt text](./img/hero0.png)
+![Alt text](ScreenShots/hero.png)
 
 ###### 子弹
 
-![Alt text](./img/bullet.png)
+![Alt text](ScreenShots/bullet.png)
  
 
 ----------
@@ -33,25 +33,25 @@
 
 ###### 开始状态
 
-![Alt text](./img/2019-03-05_013030.png)
+![Alt text](ScreenShots/start.png)
 
 ###### 暂停状态
 
-![Alt text](./img/2019-03-05_013102.png)
+![Alt text](ScreenShots/pause.png)
 
 ###### 游戏中（有奖励机制，可以加命或者是升级子弹）
 
-![Alt text](./img/2019-03-05_013155.png)
+![Alt text](ScreenShots/running1.png)
 
-![Alt text](./img/2019-03-05_013824.png)
+![Alt text](ScreenShots/running2.png)
 
-![Alt text](./img/2019-03-05_013556.png)
+![Alt text](ScreenShots/running3.png)
 
 ###### 游戏结束
 
-![Alt text](./img/2019-03-05_013523.png)
+![Alt text](ScreenShots/gameover.png)
 
 
 ###### 通关
 
-![Alt text](./img/2019-03-05_013144.png)
+![Alt text](ScreenShots/success.png)
