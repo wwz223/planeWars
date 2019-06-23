@@ -19,7 +19,7 @@
 		
 ###### 英雄机
 
-![Alt text](ScreenShots/hero.png)
+![Alt text](ScreenShots/hero0.png)
 
 ###### 子弹
 
